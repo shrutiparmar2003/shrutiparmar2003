@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm [Your Name], a passionate Data Science student with a keen interest in Data Analysis, Machine Learning, and algorithms. I enjoy tackling complex problems and finding innovative solutions through coding.
+I'm Shruti Parmar, a passionate Data Science student with a keen interest in Data Analysis, Machine Learning, and algorithms. I enjoy tackling complex problems and finding innovative solutions through coding.
 
 ## 🌱 About Me
 
@@ -30,6 +30,26 @@ I am passionate about applying machine learning techniques to extract insights f
 - **Languages**: Python, C, C++
 - **Frameworks/Technologies**: TensorFlow, Scikit-learn, Pandas, NumPy,keras
 - **Tools**: Git, GitHub, VS Code, Jupyter Notebook
+- 
+- ### Data Visualization:
+- Matplotlib
+- Seaborn
+- Plotly
+
+ ### Data Science & Machine Learning:
+- **Libraries**: 
+  - Pandas
+  - NumPy
+  - Scikit-learn
+  - Statsmodels
+  - TensorFlow
+  - Keras
+  - PyTorch
+- **Techniques**:
+  - Statistical Analysis
+  - Machine Learning Algorithms (Regression, Classification, Clustering)
+  - Natural Language Processing (NLP)
+  - Dimensionality Reduction (PCA, t-SNE)
 
 ## 📈 Contributions
 
