@@ -11,56 +11,6 @@ I'm Shruti Parmar, a passionate Data Science student with a keen interest in Dat
 - 🌍 Always eager to learn new technologies and improve my coding practices.
 
 
-## 📊 Machine Learning & Data Analysis
-
-I am passionate about applying machine learning techniques to extract insights from data. Some areas I am focusing on include:
-
-- Supervised and unsupervised learning algorithms and deep learning techniques.
-- Data preprocessing and feature engineering.
-- Model evaluation and performance metrics.
-- Visualization of data and results using libraries like Matplotlib and Seaborn.
-
-## 💬 Get in Touch
-
-- 📫 You can reach me at: shrutiparmar01082003@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/shruti-parmar-0625282a2/
-
-## 🛠️ Skills
-
-- **Languages**: Python, C, C++
-- **Frameworks/Technologies**: TensorFlow, Scikit-learn, Pandas, NumPy,keras
-- **Tools**: Git, GitHub, VS Code, Jupyter Notebook
-- 
-- ### Data Visualization:
-- Matplotlib
-- Seaborn
-- Plotly
-
- ### Data Science & Machine Learning:
-- **Libraries**: 
-  - Pandas
-  - NumPy
-  - Scikit-learn
-  - Statsmodels
-  - TensorFlow
-  - Keras
-  - PyTorch
-- **Techniques**:
-  - Statistical Analysis
-  - Machine Learning Algorithms (Regression, Classification, Clustering)
-  - Natural Language Processing (NLP)
-  - Dimensionality Reduction (PCA, t-SNE)
-
-## 📈 Contributions
-
-I regularly contribute to my [DSA repository](https://github.com/your-username/DSA) where I practice and share solutions to various data structure and algorithm problems. Additionally, I work on machine learning and data analysis projects to improve my skills and knowledge.
-
----
-
-Feel free to explore my repositories and don’t hesitate to reach out if you have any questions or want to collaborate!
-
-
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 # 📊 GitHub Stats:
