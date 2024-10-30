@@ -1,5 +1,44 @@
-# 💫 About Me:
-🔭 I’m currently working on Data Science and Machine Learning<br>👯 I’m looking to collaborate on Data Science and Machine Learning projects<br>🤝 I’m  open to collaborating on data science and machine learning projects. If you have an interesting project and need an extra pair of hands, feel free to reach out!<br>🌱 I’m currently learning data analysis and machine learning algorithms<br>
+# Hello there! 👋
+
+I'm [Your Name], a passionate Data Science student with a keen interest in Data Analysis, Machine Learning, and algorithms. I enjoy tackling complex problems and finding innovative solutions through coding.
+
+## 🌱 About Me
+
+- 🎓 Currently pursuing my degree in Data Science.
+- 💻 Proficient in programming languages such as Python, C, and C++.
+- 📊 Actively exploring Data Analysis techniques and applying Machine Learning algorithms to real-world problems.
+- 🚀 Dedicated to enhancing my skills through practical projects and daily practice in Data Structures and Algorithms (DSA).
+- 🌍 Always eager to learn new technologies and improve my coding practices.
+
+
+## 📊 Machine Learning & Data Analysis
+
+I am passionate about applying machine learning techniques to extract insights from data. Some areas I am focusing on include:
+
+- Supervised and unsupervised learning algorithms and deep learning techniques.
+- Data preprocessing and feature engineering.
+- Model evaluation and performance metrics.
+- Visualization of data and results using libraries like Matplotlib and Seaborn.
+
+## 💬 Get in Touch
+
+- 📫 You can reach me at: shrutiparmar01082003@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/shruti-parmar-0625282a2/
+
+## 🛠️ Skills
+
+- **Languages**: Python, C, C++
+- **Frameworks/Technologies**: TensorFlow, Scikit-learn, Pandas, NumPy,keras
+- **Tools**: Git, GitHub, VS Code, Jupyter Notebook
+
+## 📈 Contributions
+
+I regularly contribute to my [DSA repository](https://github.com/your-username/DSA) where I practice and share solutions to various data structure and algorithm problems. Additionally, I work on machine learning and data analysis projects to improve my skills and knowledge.
+
+---
+
+Feel free to explore my repositories and don’t hesitate to reach out if you have any questions or want to collaborate!
+
 
 
 # 💻 Tech Stack:
