@@ -20,6 +20,7 @@ I'm Shruti Parmar, a passionate Data Science student with a keen interest in Dat
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shrutiparmar2003&icon=0&color=0)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=shrutiparmar2003&icon=0&color=0)](https://visitcount.itsvg.in)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=shrutiparmar2003.shrutiparmar2003&left_color=blue&right_color=green)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
